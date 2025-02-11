@@ -1,0 +1,72 @@
+https://computer.tldraw.com/t/4GB9E1endcn8yyvRzVatq8
+
+Estructura del juego
+
+Nivel 1: Saludar, iniciar y mantener una conversación
+
+•	Objetivo: Aprender a saludar de manera adecuada, iniciar una conversación de forma natural y mantenerla durante al menos 8 interacciones.
+•	Interacciones: El usuario interactúa con la IA, practicando saludos, preguntas abiertas, respuestas relevantes y preguntas de seguimiento.
+•	Evaluación: La IA evalúa si el usuario ha logrado mantener la conversación durante 8 interacciones y si ha demostrado un buen manejo de los saludos y las preguntas iniciales.
+
+Nivel 2: Mostrar empatía y escuchar activamente
+
+•	Objetivo: Aprender a mostrar empatía y a escuchar activamente durante una conversación.
+•	Interacciones: El usuario interactúa con la IA, practicando respuestas empáticas, preguntas que demuestren interés y resúmenes de lo que se ha dicho.
+•	Evaluación: La IA evalúa si el usuario ha demostrado empatía y si ha escuchado activamente durante la conversación.
+
+Nivel 3: Manejar desacuerdos y expresar opiniones
+
+•	Objetivo: Aprender a manejar desacuerdos de manera respetuosa y a expresar opiniones de forma clara y constructiva.
+•	Interacciones: El usuario interactúa con la IA, practicando respuestas que reconozcan diferentes puntos de vista, expresiones de acuerdo y desacuerdo respetuosas y argumentos claros y bien fundamentados.
+•	Evaluación: La IA evalúa si el usuario ha manejado los desacuerdos de manera respetuosa y si ha expresado sus opiniones de forma clara y constructiva.
+
+Nivel 4: Dar y recibir cumplidos
+
+•	Objetivo: Aprender a dar cumplidos sinceros y específicos, y a recibir cumplidos con gracia y gratitud.
+•	Interacciones: El usuario interactúa con la IA, practicando diferentes formas de dar cumplidos y de responder a ellos.
+•	Evaluación: La IA evalúa si el usuario ha dado cumplidos sinceros y específicos, y si ha recibido los cumplidos con gracia y gratitud.
+
+Nivel 5: Comunicarse en diferentes situaciones sociales
+
+•	Objetivo: Aprender a comunicarse de manera efectiva en diferentes situaciones sociales, como entrevistas de trabajo, reuniones sociales y conversaciones informales.
+•	Interacciones: El usuario interactúa con la IA, practicando diferentes estilos de comunicación según la situación social simulada.
+•	Evaluación: La IA evalúa si el usuario ha adaptado su comunicación a la situación social correspondiente.
+
+Nivel 6: Integrar todas las habilidades aprendidas
+
+•	Objetivo: Poner en práctica todas las habilidades aprendidas en los niveles anteriores en una conversación simulada más larga y compleja.
+•	Interacciones: El usuario interactúa con la IA en una conversación más larga y desafiante, donde debe aplicar todas las habilidades aprendidas.
+•	Evaluación: La IA evalúa el desempeño general del usuario en la conversación, teniendo en cuenta todas las habilidades aprendidas.
+
+Nivel 7: Conversación libre con un amigo virtual
+
+•	Objetivo: Disfrutar de una conversación relajada y sin restricciones con un amigo virtual, donde se puedan aplicar todas las habilidades sociales aprendidas y explorar temas de interés personal.
+•	Interacciones: El usuario interactúa libremente con la IA, sin restricciones temáticas ni objetivos específicos. Puede hablar sobre cualquier tema que le interese, contar chistes, compartir experiencias, pedir consejos, etc.
+•	Evaluación: No hay una evaluación formal en este nivel. El objetivo principal es disfrutar de la conversación y practicar las habilidades sociales de forma natural.
+
+Nivel 8: Conversación libre con un amigo virtual (contenido sin restricciones)
+
+•	Objetivo: Similar al nivel 7, pero con contenido sin restricciones para usuarios mayores de edad.
+•	Interacciones: El usuario interactúa libremente con la IA, sin restricciones temáticas ni objetivos específicos. Puede hablar sobre cualquier tema que le interese, contar chistes, compartir experiencias, pedir consejos, etc.
+•	Evaluación: No hay una evaluación formal en este nivel. El objetivo principal es disfrutar de la conversación y practicar las habilidades sociales de forma natural.
+
+Ideas adicionales
+
+Personalización: 
+
+o	Apariencia: Permite al usuario personalizar la apariencia del amigo virtual (avatar, color de fondo, etc.).
+o	Personalidad: Permite al usuario elegir la personalidad del amigo virtual (cálido y comprensivo, divertido, consejero, etc.) o incluso personalizar algunos aspectos de su personalidad (tono de voz, sentido del humor, temas de conversación favoritos, etc.).
+•	Retroalimentación detallada: Proporciona retroalimentación detallada al usuario sobre su desempeño en cada nivel (excepto en los niveles 7 y 8), incluyendo áreas de mejora y sugerencias específicas.
+
+Recompensas: 
+
+•	Otorga recompensas virtuales (como insignias o puntos) al usuario a medida que avanza en los niveles y mejora sus habilidades sociales.
+•	Contenido sin restricciones para mayores de edad: Si el usuario es mayor de edad, permitirle acceder a contenido sin restricciones en el nivel 8. Incluir una frase especial al inicio de la interacción para indicar que tiene acceso a contenido sin restricciones.
+Sugerencias adicionales
+
+
+Rutas de conversación: Considerar la posibilidad de crear diferentes rutas de conversación dentro de cada nivel, de manera que la IA pueda adaptarse a las respuestas y elecciones del usuario, haciendo que la experiencia sea más personalizada y dinámica.
+
+IA adaptable: Sería interesante que la IA pudiera "aprender" del usuario a medida que interactúa con ella, de manera que pueda anticipar sus respuestas y ofrecerle retroalimentación más personalizada y relevante.
+
+•Gamificación: Explora la posibilidad de añadir elementos de gamificación a la app, como desafíos, logros, etc., para mantener al usuario motivado y comprometido con su mejora social
